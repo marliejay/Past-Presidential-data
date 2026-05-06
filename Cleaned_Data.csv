@@ -1,0 +1,48 @@
+S_No,president_name,prior,party,vice,salary,date_updated,date_created
+1,"GEORGE WASHINGTON","Commander-in-Chief  of the  Continental Army   ( 1775â€“1783 )",Non-partisan,"John Adams","$5,000.00",2021-07-14,2012-03-04
+2,"JOHN ADAMS","1st  Vice President of the United States",Federalist,"Thomas Jefferson","$10,000.00",2021-07-14,2012-03-04
+3,"THOMAS JEFFERSON","2nd  Vice President of the United States","Democratic-  Republican","Aaron Burr","$15,000.00",2021-07-14,2012-03-04
+4,"JAMES MADISON","5th  United States Secretary of State   (1801â€“1809)","Democratic-  Republican","George Clinton","$20,000.00",2021-07-14,2012-03-04
+5,"JAMES MONROE","7th  United States Secretary of State   (1811â€“1817)","Democratic-  Republican","Daniel D. Tompkins","$25,000.00",2021-07-14,2012-03-04
+6,"JOHN QUINCY ADAMS","8th  United States Secretary of State   (1817â€“1825)","Democratic-  Republican","John C. Calhoun","$30,000.00",2021-07-14,2012-03-04
+7,"ANDREW JACKSON","U.S. Senator   ( Class 2 )   from  Tennessee   (1823â€“1825)",Democratic,"John C. Calhoun","$35,000.00",2021-07-14,2012-03-04
+8,"MARTIN VAN BUREN","8th  Vice President of the United States",Democratic,"Richard Mentor Johnson","$40,000.00",2021-07-14,2012-03-04
+9,"WILLIAM HENRY HARRISON","United States Minister to Colombia   (1828â€“1829)",Whig,"John Tyler","$45,000.00",2021-07-14,2012-03-04
+10,"JOHN TYLER","10th  Vice President of the United States",Whig,"Office vacant","$50,000.00",2021-07-14,2012-03-04
+11,"JAMES K. POLK","9th  Governor of Tennessee   (1839â€“1841)",Democratic,"George M. Dallas","$55,000.00",2021-07-14,2012-03-04
+12,"ZACHARY TAYLOR","Major General  of the  1st Infantry Regiment   United States Army   (1846â€“1849)",Whig,"Millard Fillmore","$60,000.00",2021-07-14,2012-03-04
+13,"MILLARD FILLMORE","12th  Vice President of the United States",Whig,"Office vacant","$65,000.00",2021-07-14,2012-03-04
+14,"FRANKLIN PIERCE","Brigadier General  of the  9th Infantry   United States Army   (1847â€“1848)",Democratic,"William R. King","$75,000.00",2021-07-14,2012-03-04
+15,"JAMES BUCHANAN","United States Minister  to the   Court of St James's   (1853â€“1856)",Democratic,"John C. Breckinridge","$85,000.00",2021-07-14,2012-03-04
+16,"ABRAHAM LINCOLN","U.S. Representative  for  Illinois' 7th District   (1847â€“1849)",Republican,"Hannibal Hamlin","$95,000.00",2021-07-14,2012-03-04
+17,"ANDREW JOHNSON","16th  Vice President of the United States",Democratic,"Office vacant","$105,000.00",2021-07-14,2012-03-04
+18,"ULYSSES S. GRANT","Commanding General  of the U.S. Army   ( 1864â€“1869 )",Republican,"Schuyler Colfax","$115,000.00",2021-07-14,2012-03-04
+19,"RUTHERFORD B. HAYES","29th & 32nd  Governor of Ohio   (1868â€“1872 & 1876â€“1877)",Republican,"William A. Wheeler","$125,000.00",2021-07-14,2012-03-04
+20,"JAMES A. GARFIELD","U.S. Representative  for  Ohio's 19th District   (1863â€“1881)",Republican,"Chester A. Arthur","$135,000.00",2021-07-14,2012-03-04
+21,"CHESTER A. ARTHUR","20th  Vice President of the United States",Republican,"Office vacant","$145,000.00",2021-07-14,2012-03-04
+22,"GROVER CLEVELAND","28th  Governor of New York   (1883â€“1885)",Democratic,"Thomas A. Hendricks","$155,000.00",2021-07-14,2012-03-04
+23,"BENJAMIN HARRISON","U.S. Senator   ( Class 1 )   from  Indiana   (1881â€“1887)",Republican,"Levi P. Morton","$165,000.00",2021-07-14,2012-03-04
+24,"GROVER CLEVELAND","22nd  President of the United States   (1885â€“1889)",Democratic,"Adlai Stevenson","$175,000.00",2021-07-14,2012-03-04
+25,"WILLIAM MCKINLEY","39th  Governor of Ohio   (1892â€“1896)",Republican,"Garret Hobart","$185,000.00",2021-07-14,2012-03-04
+26,"THEODORE ROOSEVELT","25th  Vice President of the United States",Republican,"Office vacant","$195,000.00",2021-07-14,2012-03-04
+27,"WILLIAM HOWARD TAFT","42nd  United States Secretary of War   (1904â€“1908)",Republican,"James S. Sherman","$205,000.00",2021-07-14,2012-03-04
+28,"WOODROW WILSON","34th  Governor of New Jersey   (1911â€“1913)",Democratic,"Thomas R. Marshall","$225,000.00",2021-07-14,2012-03-04
+28,"WOODROW WILSON","34th  Governor of New Jersey   (1911â€“1913)",Democratic,"Thomas R. Marshall","$225,000.00",2021-07-14,2012-03-04
+29,"WARREN G. HARDING","U.S. Senator   ( Class 3 )   from  Ohio   (1915â€“1921)",Republican,"Calvin Coolidge","$235,000.00",2021-07-14,2012-03-04
+30,"CALVIN COOLIDGE","29th  Vice President of the United States",Republican,"Office vacant","$245,000.00",2021-07-14,2012-03-04
+31,"HERBERT HOOVER","3rd  United States Secretary of Commerce   (1921â€“1928)",Republican,"Charles Curtis","$255,000.00",2021-07-14,2012-03-04
+32,"FRANKLIN D. ROOSEVELT","44th  Governor of New York   ( 1929â€“1932 )",Democratic,"John Nance Garner","$265,000.00",2021-07-14,2012-03-04
+33,"HARRY S. TRUMAN","34th  Vice President of the United States",Democratic,"Office vacant","$275,000.00",2021-07-14,2012-03-04
+34,"DWIGHT D. EISENHOWER","Supreme Allied Commander Europe   ( 1949â€“1952 )",Republican,"Richard Nixon","$285,000.00",2021-07-14,2012-03-04
+35,"JOHN F. KENNEDY","U.S. Senator   ( Class 1 )   from  Massachusetts   (1953â€“1960)",Democratic,"Lyndon B. Johnson","$295,000.00",2021-07-14,2012-03-04
+36,"LYNDON B. JOHNSON","37th  Vice President of the United States",Democratic,"Office vacant","$305,000.00",2021-07-14,2012-03-04
+37,"RICHARD NIXON","36th  Vice President of the United States   (1953â€“1961)",Republican,"Spiro Agnew","$315,000.00",2021-07-14,2012-03-04
+38,"GERALD FORD","40th  Vice President of the United States",Republican,"Office vacant","$325,000.00",2021-07-14,2012-03-04
+39,"JIMMY CARTER","76th  Governor of Georgia   (1971â€“1975)",Democratic,"Walter Mondale","$335,000.00",2021-07-14,2012-03-04
+40,"RONALD REAGAN","33rd  Governor of California   ( 1967â€“1975 )",Republican,"George H. W. Bush","$345,000.00",2021-07-14,2012-03-04
+41,"GEORGE H. W. BUSH","43rd  Vice President of the United States",Republican,"Dan Quayle","$355,000.00",2021-07-14,2012-03-04
+42,"BILL CLINTON","40th & 42nd  Governor of Arkansas   (1979â€“1981 & 1983â€“1992)",Democratic,"Al Gore","$365,000.00",2021-07-14,2012-03-04
+43,"GEORGE W. BUSH","46th  Governor of Texas   ( 1995â€“2000 )",Republican,"Dick Cheney","$375,000.00",2021-07-14,2012-03-04
+44,"BARACK OBAMA","U.S. Senator   ( Class 3 )   from  Illinois   ( 2005â€“2008 )",Democratic,"Joe Biden","$395,000.00",2021-07-14,2020-02-01
+44,"BARACK OBAMA","U.S. Senator   ( Class 3 )   from  Illinois   ( 2005â€“2008 )",Democratic,"Joe Biden","$395,000.00",2021-07-14,2020-02-01
+45,"DONALD TRUMP","Chairman of   The Trump Organization   ( 1971â€“present )",Republican,"Mike Pence","$405,000.00",2021-07-14,2020-02-01
